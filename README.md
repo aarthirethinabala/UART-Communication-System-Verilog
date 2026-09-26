@@ -30,7 +30,7 @@ The UART system was tested using a multibyte data transmission.
 The transmitted data was successfully received by the UART receiver.
 The simulation was completed successfully.
 
-![UART simulation result](simulation-results.png)
+![UART simulation result](simulation-result.png)
 
 ## Files
 The Verilog source files and testbench are included in this repository.
