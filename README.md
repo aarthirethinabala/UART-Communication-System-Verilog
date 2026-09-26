@@ -38,6 +38,8 @@ The Verilog source files and testbench are included in this repository.
 ## Simulation
 The design was simulated using EDA Playground with a Verilog testbench.
 
+[View and run the simulation using EDA Playground](https://edaplayground.com/x/TYYk)
+
 ## What I Learned
 - Basics of Verilog HDL
 - UART communication
