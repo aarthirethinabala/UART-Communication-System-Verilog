@@ -26,11 +26,11 @@ The UART receiver accepts the serial data stream and converts it back into paral
 The transmitter and receiver were tested using a Verilog testbench to verify that the transmitted data was correctly received.
 
 ## Simulation Result
-The system was tested by transmitting the hexadecimal value:
-'A5'
-The receiver successfully obtained:
-'A5'
-The simulation completed successfully.
+The UART system was tested using a multibyte data transmission.
+The transmitted data was successfully received by the UART receiver.
+The simulation was completed successfully.
+
+![UART simulation result](simulation-results.png)
 
 ## Files
 The Verilog source files and testbench are included in this repository.
